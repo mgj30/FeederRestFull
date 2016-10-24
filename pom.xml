@@ -29,7 +29,7 @@
 				<enabled>false</enabled>
 			</releases>
 			<snapshots>
-				<enabled>true</enabled>
+				<enabled>true</enabled> 
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
